@@ -1,7 +1,8 @@
 {
   "main": "test.js",
  "scripts": {
-  "test": "node fizzbuzz.test.js"
+  "test": "node fizzbuzz.test.js",
+  "build": "echo 'no build step required'"
 }
 
 }

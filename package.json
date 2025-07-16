@@ -1,6 +1,7 @@
 {
   "main": "test.js",
-  "scripts": {
-    "test": "node --test"
-  }
+ "scripts": {
+  "test": "node fizzbuzz.test.js"
+}
+
 }
